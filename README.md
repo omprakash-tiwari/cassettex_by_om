@@ -28,3 +28,7 @@
     cd CassetteX
 3. Open index.html in your browser to use the music player.
 
+## 🧑‍💻 Author
+   **Omprakash Tiwari**
+   
+   Feel free to connect or give feedback!
